@@ -10,3 +10,7 @@
 .font-work-sans {
   font-family: 'Work Sans', sans-serif;
 }
+
+.active{
+    @apply  border border-[#23BE0A] text-[#23BE0A] font-semibold rounded-sm
+}
